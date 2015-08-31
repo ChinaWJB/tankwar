@@ -1,0 +1,8 @@
+
+2015-08-30 00:10:04,681ERROR [jobTest.Test_Log.main(Test_Log.java:11)] ERROR
+
+2015-08-30 00:10:21,591ERROR [jobTest.Test_Log.main(Test_Log.java:11)] ERROR
+
+2015-08-30 00:10:21,594WARN [jobTest.Test_Log.main(Test_Log.java:13)] WARN
+
+2015-08-30 00:10:21,594INFO [jobTest.Test_Log.main(Test_Log.java:14)] INFO
